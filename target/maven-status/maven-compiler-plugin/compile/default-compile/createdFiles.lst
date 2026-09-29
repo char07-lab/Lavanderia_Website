@@ -1,0 +1,6 @@
+model\EPI.class
+dao\FuncionarioDAO.class
+model\Funcionario.class
+dao\Conexao.class
+service\FuncionarioService.class
+principal\TestMain.class
